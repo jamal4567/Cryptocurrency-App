@@ -28,7 +28,7 @@ A React-based cryptocurrency tracking application that displays real-time inform
 https://github.com/jamal4567/Cryptocurrency-App.git
 
 2. Navigate to the project directory:
-cd Cryptocurrency-App
+cd crypto-app
 
 3. Install dependencies:
 npm install
