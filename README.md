@@ -55,25 +55,6 @@ You can obtain an API key from [CoinStats API](https://documenter.getpostman.com
 This project uses the CoinStats API v1. For more information, visit:
 [CoinStats API Documentation](https://documenter.getpostman.com/view/5734027/RzZ6Hzr3)
 
-## Contributing
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details
-
-## Acknowledgments
-
-- Data provided by CoinStats API
-- React.js community
-- Create React App team
-
 ## Contact
-
-Your Name - jamal immiss
+ jamal immiss
 Project Link: https://github.com/jamal4567/Cryptocurrency-App.git
